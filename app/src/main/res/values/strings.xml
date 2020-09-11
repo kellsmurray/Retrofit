@@ -1,0 +1,9 @@
+<resources>
+    <string name="submitProject">Submit</string>
+    <string name="fail">Submission not Successful</string>
+    <string name="sub_success">Submission Successful</string>
+    <string name="Submit">Submit</string>
+    <string name="skills_score">Skills IQ Score,</string>
+    <string name="lhrs">learning hours,</string>
+    <string name="appName">LEADERBOARD</string>
+</resources>
